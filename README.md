@@ -22,6 +22,5 @@
 - Add "start vrp_gps" in your Server.cfg
 - Start the server
 
------------
 
-*all rights reserved*
+all rights reserved
