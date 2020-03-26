@@ -1,5 +1,5 @@
 -----------=============================================[SCRIPT BY FANCAZISTA]=============================================-----------
--- Script created by Fancazista, all rights reserved.
+-- Script created by Fancazista, all rights reserved
 
 
 local Tunnel = module("vrp", "lib/Tunnel")
