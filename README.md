@@ -2,8 +2,6 @@
 
 #### GPS Script - vRP
 
-**Information**
-
 - Video Clip of version 1.0:
 - https://forum.fivem.net/---
 
