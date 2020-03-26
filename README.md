@@ -5,7 +5,7 @@
 - Video Clip of version 1.0: https://www.youtube.com/watch?v=CWH7SazTL0E
 
 ------------
-**Requirement**
+**IN THE NEXT UPDATE**
 
 ATTENTION: I am aware of vRP console error spam, in a few hours you will find it working.
 
