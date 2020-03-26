@@ -3,7 +3,7 @@
 #### GPS Script - vRP
 
 - Video Clip of version 1.0: https://www.youtube.com/watch?v=CWH7SazTL0E
-- https://forum.fivem.net/---
+- https://forum.cfx.re/t/release-vrp-gps-enable-and-disable-the-radar/1088421
 
 ------------
 
